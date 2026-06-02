@@ -1,0 +1,8 @@
+{
+    "url": "https://blog-application-xio4.onrender.com",
+    "endpoints": {
+        "register": "/api/auth/register",
+        "login": "/api/auth/login",
+        "posts": "/api/posts"
+    }
+}
